@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: d39ccc298be703249a32bb8b2805212e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sarah_idle0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50874ea745759cf40b157c6c48cae4fb
+      internalID: -289696983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarah_idle1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 252
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64625f7a456f4744690639058febc9e0
+      internalID: 1523244108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarah_idle2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 252
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2565e8685029e46b33a6a694014607
+      internalID: -843036356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarah_idle3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 252
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1e9d3f13d094e4c9f9d34ab20cb779
+      internalID: 1622453930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarah_idle4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 252
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0d8cdcfd500bc4fb0ca40949c0ff6d
+      internalID: -1975032688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarah_idle5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 252
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad5fce5a0b00e4da8e836222719712
+      internalID: 1543761263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarah_idle6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 252
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e9450ca0786b4fa3f3b6e00a19694
+      internalID: 1771786447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarah_idle7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 252
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ff0e5a1b05aa49a3873f2e307741a
+      internalID: 780850710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarah_idle8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 252
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c2e2defb604794a9418e4a5eb2ba13
+      internalID: 1293535400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sage 52x21_10: 1526390087
+      sage 52x21_11: 1586843740
+      sage 52x21_12: 265255021
+      sage 52x21_13: -1115679014
+      sage 52x21_14: -454798628
+      sage 52x21_15: 1009551293
+      sage 52x21_16: 1051195691
+      sage 52x21_17: 1351350592
+      sage 52x21_18: -1310291558
+      sage 52x21_19: 498225130
+      sage 52x21_20: -893630655
+      sage 52x21_21: -1296079936
+      sage 52x21_22: -2134616308
+      sage 52x21_23: -674108259
+      sage 52x21_24: -772893227
+      sage 52x21_25: 166730899
+      sage 52x21_26: -986345553
+      sage 52x21_27: -921817522
+      sage 52x21_28: 1502120448
+      sage 52x21_29: 1174271826
+      sage 52x21_30: -362028816
+      sage 52x21_31: 1948850056
+      sage 52x21_32: 1284501112
+      sage 52x21_33: -730908137
+      sage 52x21_34: 95902291
+      sage 52x21_35: -183047474
+      sage 52x21_36: 1089108558
+      sage 52x21_37: -789416454
+      sage 52x21_38: 1771415047
+      sage 52x21_39: -676986816
+      sage 52x21_40: -901187754
+      sage 52x21_41: 407358350
+      sage 52x21_42: 331421073
+      sage 52x21_43: -1158062284
+      sage 52x21_44: 282883234
+      sage 52x21_45: 867780147
+      sage 52x21_46: -1896498625
+      sage 52x21_47: 1476239659
+      sage 52x21_48: 10432831
+      sage 52x21_49: 249589693
+      sage 52x21_50: 409307869
+      sage 52x21_51: 259473807
+      sage 52x21_52: -595705993
+      sage 52x21_53: 336476489
+      sage 52x21_54: -1804338341
+      sage 52x21_55: 66370859
+      sage 52x21_56: -114400067
+      sage 52x21_57: 1539490746
+      sage 52x21_58: 1634555685
+      sage 52x21_59: -2014599691
+      sage 52x21_60: 1912652194
+      sage 52x21_61: 1880953564
+      sage 52x21_62: 80385120
+      sage 52x21_63: -1065379952
+      sage 52x21_64: 1952259885
+      sage 52x21_65: -1926206206
+      sage 52x21_66: 2090526070
+      sage 52x21_67: 1758845156
+      sage 52x21_68: 1015221402
+      sage 52x21_69: -932747929
+      sage 52x21_70: -484647491
+      sage 52x21_71: 1275107753
+      sage 52x21_72: -2145362381
+      sage 52x21_73: 177130527
+      sage 52x21_74: 1462743540
+      sage 52x21_75: 505859093
+      sage 52x21_76: -1409313989
+      sage 52x21_77: -1210938730
+      sage 52x21_78: 186520104
+      sage 52x21_79: 1357075675
+      sage 52x21_80: -624195409
+      sage 52x21_81: 1204513077
+      sage 52x21_82: 59771939
+      sage 52x21_83: -1658866024
+      sage 52x21_84: -1757721929
+      sage 52x21_85: 342965938
+      sage 52x21_9: 481738708
+      sarah_idle0: -289696983
+      sarah_idle1: 1523244108
+      sarah_idle2: -843036356
+      sarah_idle3: 1622453930
+      sarah_idle4: -1975032688
+      sarah_idle5: 1543761263
+      sarah_idle6: 1771786447
+      sarah_idle7: 780850710
+      sarah_idle8: 1293535400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

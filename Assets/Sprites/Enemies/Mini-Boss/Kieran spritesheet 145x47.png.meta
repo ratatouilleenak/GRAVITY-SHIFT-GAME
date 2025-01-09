@@ -1,0 +1,2837 @@
+fileFormatVersion: 2
+guid: c09843a80a4c9fc4f95c0d58038f15e9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kieran_idle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee9829764b0404d8b6a71a8a81b802
+      internalID: -804055476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_idle2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117aa57a1b5c1814db62b294e0b5a85b
+      internalID: -698722109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_idle3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a408066078b515f4a917b88596127199
+      internalID: -1654682570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_idle4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc01879c49a0824384742b36980eca3
+      internalID: -340936431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_idle5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6653f157c5d88d1409db8dc75726df11
+      internalID: -1083624217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_idle6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d8f88be9a5dcd4482927f3fafd2e4a
+      internalID: 1594675176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_idle7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7039f5d53be764478a0727b6da91d79
+      internalID: -1953325673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_idle8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fbea5c99e9fb6419bf026ad1cd0986
+      internalID: 79022524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_idle9
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd8ae058e516744cad9097ee45df8fd
+      internalID: 1327599553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_idle10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a619f46091761a4ab34700177c2c4c7
+      internalID: 87766316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_idle11
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8cc02235d2f334fbd64213aa920884
+      internalID: 894623572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_idle12
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 329
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8f118edc0aac441baed77ea7fee9f7
+      internalID: 1985173185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7d8d74b9413ed4ea93e8f6180cb523
+      internalID: 1978472753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1797e87cd4b3a954686af22b80442980
+      internalID: -1849420362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c865e8acf999548989deae699af59f
+      internalID: 1505652036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a92e28ef66ad041bff12486e5e378e
+      internalID: -775181487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b312c876d3030942bdf56ca879e5660
+      internalID: 1843122400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ff45eb55cf134fb093aa4e99c4a1c
+      internalID: 1745460244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81eb13d0985d8749a14766081be55b9
+      internalID: 1285801343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd19780acaa83a4dbb1ee7947035845
+      internalID: 778146009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move9
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b3faf43d0da34abb633964ae4aca1
+      internalID: 599640404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2834ca5ebd25ff3498402035c0f2fa5c
+      internalID: -1519758216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move11
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a94f5f4b1ab2841bebdf16a959000c
+      internalID: 1975859680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move12
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341650bfecc5ae248917d9ce0f31a855
+      internalID: 1682465241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move13
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9315a5318fe3b454290cdac1d7f51ef5
+      internalID: -922756846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move14
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345a1d6f0e57e6b41b18581ed6c242a7
+      internalID: 1937863183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move15
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f90f460dc5bf1409cf9db22f5793e5
+      internalID: -244493051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_move16
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 282
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0210f392dc3eb2941b492bcbafe28689
+      internalID: -402836062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd228fc017611ef47b952f454fa079f4
+      internalID: 415232349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d93b91c514c8634780b89521407d47c
+      internalID: -1421248214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30167885fc9eed549ba1677d3933e6c3
+      internalID: -1793036498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a396ca3dae9cf324e8f51b518f5d2c82
+      internalID: -1901127482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dd0b15e21edfe42a2267a3dce6f11e
+      internalID: -1707408061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2625dfb7192199c469a9ff8de75347c6
+      internalID: -643269413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3115ac60936732c4385178fe404a272f
+      internalID: 738043509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ffcce22f7037c449fda8013438841c
+      internalID: -1329302476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack9
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646cc9a62f135f409632342f8ab4913
+      internalID: 1633933204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ad5bf83dfe0c4cad39ce36d5d3ad3
+      internalID: 1322726015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack11
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 236
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ff47a25ce77604c96e80d67aab3f3d
+      internalID: -917868460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack12
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ceb9d0aa0ff274686463299a9ac0c5
+      internalID: -674539206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack13
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d3a942824539d43a34b39d6073f775
+      internalID: 373828428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack14
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bc8f1c71822864b8ed5af74376d382
+      internalID: -944721300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack15
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2c69ee629b2b6478a903df02cf1232
+      internalID: 1719417154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack16
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000002a44c92053478fef4f8471d2217
+      internalID: -1579896797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack17
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595337198d1efd04c9a572cd0c9b96a0
+      internalID: -500616107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack18
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad1e7a021453d44b97f4b28285839d9
+      internalID: 1327962847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_rangedattack19
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 235
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb12a44143617441afd08656fceb173
+      internalID: -643313372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faba8698b7a53c4eb883ba0b1a93af2
+      internalID: -1028652673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b5bc698c878c844a4b283f12bee1a2
+      internalID: 1248890333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3d32e557209f9489196b7f0619e495
+      internalID: 379862256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6498c4175abac304c8d5aa2ff13e2ba0
+      internalID: -1722165160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bac9ac455219a4f98ebef0f5469daf
+      internalID: 1514740641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7a8ba235f52a4c803f507abfe4ae5
+      internalID: 1990817833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3745e64d8ee4a1641bf37e2247c7c646
+      internalID: 1033339118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefd4c78a3622df4e96333dd8186fab7
+      internalID: 1056576822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire9
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fed8339e2841540b503142284b013a
+      internalID: -1982233792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f692924834a3b41b4e4e6985256c4d
+      internalID: -136421245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire11
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cbd74971f46cc4ea7ccfccb4d0d97c
+      internalID: -420191653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire12
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0b951ee9bd96746a7cc8515a40d821
+      internalID: -391758008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_fire13
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 188
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8380e9303bf1f4bae671f5b673a5de
+      internalID: -703771136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3f56dbb70edee4491706e8393d9dad
+      internalID: -1810717084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4fed40d5d19ac46ac108031379dc75
+      internalID: 86613161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80861594178860f49b220297b1f3b297
+      internalID: 888950615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123259ca62f1351468407f17957d8e4e
+      internalID: -1259420372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25426823b73d834895585120b0502ed
+      internalID: -506250734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1910f5a8b716bc14c8404c01a819d9c7
+      internalID: 272249584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c780e885f541ea049aa29ab45689a1f4
+      internalID: 496133923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a4a0a922496a441bfa7ae2d4531af9
+      internalID: 161229038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab9
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc945d43cffb4b46817640dcacb1e85
+      internalID: -421075498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466700fdde3427145be778600ec90a28
+      internalID: -696099408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab11
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19786b2c1f050c4c93e7d9fd9a01b77
+      internalID: 477401422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab12
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e504c8c436091047beb64024d241c20
+      internalID: -941242087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab13
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6e6de3512599d4686f3069d645e970
+      internalID: -1197881792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab14
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe68b225ec02cd49bd9d70ae405573f
+      internalID: 1702792737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_stab15
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 141
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fd79c1a27e5ea44b35b4ade1539e36
+      internalID: 146557462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb43493bd897b9c4bb646602bef9db67
+      internalID: -1656607249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da835c6c16a42f4388ad57bbac29c7c
+      internalID: -782728704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42737a5ae62804d44b7f23d2010c7d26
+      internalID: 58875422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2cb2f65d7f23748b346d76522c280c
+      internalID: 1009086958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df32342deab7e344a9bf2e54ea074bf6
+      internalID: -1297143693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423003fb2e6e1a43a8d150f1311ebc3
+      internalID: -892980347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559e0ea1fe20ff9418d03d914935e808
+      internalID: 614639215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0978345453b7b7c4fb6b07003419ff80
+      internalID: -1188917051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab9
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785ac81d05df92147a167e5ad748339e
+      internalID: 1097560565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fab5de60aef1e043b0c00ac2a18e2fe
+      internalID: -1032999347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab11
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7fd93d52fdb7d41b8482c483ab447a
+      internalID: 348197671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab12
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc989cf769e7f2489743aac7caf5e74
+      internalID: 1737784623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab13
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52da215aa8fb6a940a874bed296f96ab
+      internalID: 752807057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab14
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd11d8a867f254438b5b999b39ea3ab
+      internalID: 398942005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_chainstab15
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 94
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dc1b4bc68cd904e811380820fe8ed9
+      internalID: 72054453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325f21a96a18dba4f87f2ab3a7a7eefd
+      internalID: 1692945024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b340d8e37b8ec4eab1c224990b3a75
+      internalID: 1760971185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1962acda36d970847a5915df5c3b5ccc
+      internalID: -1272178104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa232825882eaa43a4624789b80484d
+      internalID: 1188918174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162058232bf94844f8d4cc75e6f6a5cb
+      internalID: 1021813954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3bca959fd457048859035ed192d792
+      internalID: 1900721277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc4d251e459c54db236cff46e71821
+      internalID: -1726272658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5cdd1bc995a694580c28ed976ce0d7
+      internalID: 1085408800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff9
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad71bb2edfdc5b041815cccff77234f5
+      internalID: 1563815109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf85719235a713498fb38f4ba377bb9
+      internalID: 153898309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff11
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c740e58c47b4ea4080e675e602f44bd
+      internalID: -1040242641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff12
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7583ba38edba2f4baf41aae972042fe
+      internalID: -1936473031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff13
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e226db1dfcb92d949b7c478387b64098
+      internalID: 1621439924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff14
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d0917c3e45ee949883046f0b26df31
+      internalID: -2026167887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff15
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774fb46a928cdb943af740ac27ef76e6
+      internalID: 1323127607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff16
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3c850f03b444a4a8b2c47f93bb97f1
+      internalID: 1155923203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff17
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e6c3bd57dba17478c71522a40c03ca
+      internalID: 327923289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff18
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe53d080ae842a64d8a200c2ea355be6
+      internalID: -1091498762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff19
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c4c1c1ca353b74f8a43656cfa2827e
+      internalID: -968484868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff20
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639e03311878371428b8365093417c31
+      internalID: -1863427388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_buff21
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 47
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338bb3eae49892440b6fb99199b1eca1
+      internalID: -966513368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b5341316c009e4bb495c500d6d8ccd
+      internalID: 757025957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbb66f815522b048a1595a91664e8cd
+      internalID: 1354028802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40a3c5662148f45aa17ec05a1c593f
+      internalID: 276589246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f65296b0d43a34587f0b1dfde155be
+      internalID: 765667227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7545538ba37dcc141ba33eb777813de6
+      internalID: -1053360693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1782b65387ebf74497b065c8ed4759b
+      internalID: 372566073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910d87560a4ecae45950be439da63efb
+      internalID: 1706024317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e6966166f37844883296aed5b5f00e
+      internalID: -1305891116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death9
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3a8d1c58afee742a8dbf1d6831e879
+      internalID: -882623808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f942e0bb6674fc04ca88725c478248f8
+      internalID: -286956467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death11
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d297295ec5fa4d40b70d97e3909bd1f
+      internalID: 882800499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kieran_death12
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 0
+        width: 145
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3543e1f2e2e751848bba607d5643a06b
+      internalID: 18905148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kieran spritesheet 145x47_60: -2124404739
+      Kieran spritesheet 145x47_61: -1406192730
+      Kieran spritesheet 145x47_62: -1188867246
+      Kieran spritesheet 145x47_93: -1618555557
+      Kieran_buff1: 1692945024
+      Kieran_buff10: 153898309
+      Kieran_buff11: -1040242641
+      Kieran_buff12: -1936473031
+      Kieran_buff13: 1621439924
+      Kieran_buff14: -2026167887
+      Kieran_buff15: 1323127607
+      Kieran_buff16: 1155923203
+      Kieran_buff17: 327923289
+      Kieran_buff18: -1091498762
+      Kieran_buff19: -968484868
+      Kieran_buff2: 1760971185
+      Kieran_buff20: -1863427388
+      Kieran_buff21: -966513368
+      Kieran_buff3: -1272178104
+      Kieran_buff4: 1188918174
+      Kieran_buff5: 1021813954
+      Kieran_buff6: 1900721277
+      Kieran_buff7: -1726272658
+      Kieran_buff8: 1085408800
+      Kieran_buff9: 1563815109
+      Kieran_chainstab1: -1656607249
+      Kieran_chainstab10: -1032999347
+      Kieran_chainstab11: 348197671
+      Kieran_chainstab12: 1737784623
+      Kieran_chainstab13: 752807057
+      Kieran_chainstab14: 398942005
+      Kieran_chainstab15: 72054453
+      Kieran_chainstab2: -782728704
+      Kieran_chainstab3: 58875422
+      Kieran_chainstab4: 1009086958
+      Kieran_chainstab5: -1297143693
+      Kieran_chainstab6: -892980347
+      Kieran_chainstab7: 614639215
+      Kieran_chainstab8: -1188917051
+      Kieran_chainstab9: 1097560565
+      Kieran_death1: 757025957
+      Kieran_death10: -286956467
+      Kieran_death11: 882800499
+      Kieran_death12: 18905148
+      Kieran_death2: 1354028802
+      Kieran_death3: 276589246
+      Kieran_death4: 765667227
+      Kieran_death5: -1053360693
+      Kieran_death6: 372566073
+      Kieran_death7: 1706024317
+      Kieran_death8: -1305891116
+      Kieran_death9: -882623808
+      Kieran_fire1: -1028652673
+      Kieran_fire10: -136421245
+      Kieran_fire11: -420191653
+      Kieran_fire12: -391758008
+      Kieran_fire13: -703771136
+      Kieran_fire2: 1248890333
+      Kieran_fire3: 379862256
+      Kieran_fire4: -1722165160
+      Kieran_fire5: 1514740641
+      Kieran_fire6: 1990817833
+      Kieran_fire7: 1033339118
+      Kieran_fire8: 1056576822
+      Kieran_fire9: -1982233792
+      Kieran_idle1: -804055476
+      Kieran_idle10: 87766316
+      Kieran_idle11: 894623572
+      Kieran_idle12: 1985173185
+      Kieran_idle2: -698722109
+      Kieran_idle3: -1654682570
+      Kieran_idle4: -340936431
+      Kieran_idle5: -1083624217
+      Kieran_idle6: 1594675176
+      Kieran_idle7: -1953325673
+      Kieran_idle8: 79022524
+      Kieran_idle9: 1327599553
+      Kieran_move1: 1978472753
+      Kieran_move10: -1519758216
+      Kieran_move11: 1975859680
+      Kieran_move12: 1682465241
+      Kieran_move13: -922756846
+      Kieran_move14: 1937863183
+      Kieran_move15: -244493051
+      Kieran_move16: -402836062
+      Kieran_move2: -1849420362
+      Kieran_move3: 1505652036
+      Kieran_move4: -775181487
+      Kieran_move5: 1843122400
+      Kieran_move6: 1745460244
+      Kieran_move7: 1285801343
+      Kieran_move8: 778146009
+      Kieran_move9: 599640404
+      Kieran_rangedattack1: 415232349
+      Kieran_rangedattack10: 1322726015
+      Kieran_rangedattack11: -917868460
+      Kieran_rangedattack12: -674539206
+      Kieran_rangedattack13: 373828428
+      Kieran_rangedattack14: -944721300
+      Kieran_rangedattack15: 1719417154
+      Kieran_rangedattack16: -1579896797
+      Kieran_rangedattack17: -500616107
+      Kieran_rangedattack18: 1327962847
+      Kieran_rangedattack19: -643313372
+      Kieran_rangedattack2: -1421248214
+      Kieran_rangedattack3: -1793036498
+      Kieran_rangedattack4: -1901127482
+      Kieran_rangedattack5: -1707408061
+      Kieran_rangedattack6: -643269413
+      Kieran_rangedattack7: 738043509
+      Kieran_rangedattack8: -1329302476
+      Kieran_rangedattack9: 1633933204
+      Kieran_stab1: -1810717084
+      Kieran_stab10: -696099408
+      Kieran_stab11: 477401422
+      Kieran_stab12: -941242087
+      Kieran_stab13: -1197881792
+      Kieran_stab14: 1702792737
+      Kieran_stab15: 146557462
+      Kieran_stab2: 86613161
+      Kieran_stab3: 888950615
+      Kieran_stab4: -1259420372
+      Kieran_stab5: -506250734
+      Kieran_stab6: 272249584
+      Kieran_stab7: 496133923
+      Kieran_stab8: 161229038
+      Kieran_stab9: -421075498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1173 @@
+fileFormatVersion: 2
+guid: bae4a038769ca4244821348138c5a9a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bandage_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af30040736f9ba94fbf5c8c6bb276ba2
+      internalID: -186060927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandage_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e13747da4546cd4d9f0ed40cfa4f638
+      internalID: 1890337234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandage_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa9107c37c58247af1248d6b972af0
+      internalID: 484265855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandage_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc9602b7fe109d48b8270c7622d8050
+      internalID: -1760690173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandage_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bcd78f4e98c274281a32552544026c
+      internalID: -1009204451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandage_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0146516f71d9e8409ad54c127b53e3f
+      internalID: -1484317351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandage_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3eb0324a3d02b4893be99c1ddb6bd3
+      internalID: -231276819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandage_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c7265c5a90f0e4eacfc0c2f2677c4a
+      internalID: -723485203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandage_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2926559f5d668d47a27b4af8a790f2c
+      internalID: 556161742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandage_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0a19f651292ec4fba0d53a7648b00f
+      internalID: 1974713105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee650be0a8df88478d1f1980b3a02ed
+      internalID: 2101809439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dba5469be7c7f04c9c3625f754dadde
+      internalID: 738905290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9068895d96c7fad489e97f03fed45591
+      internalID: 1126707211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ec2dcd121549488de5b8a82b59bd0
+      internalID: 1068561296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351251193f16ae74f8b5cb0f666db21e
+      internalID: -345547431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ammo_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753ebc4c64e14a44bbecab839a500e7
+      internalID: -1384080646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac8de22722782d44bd13112189a7967
+      internalID: -1697855429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94408e73e97aed345ba2e6d42d9e437d
+      internalID: 263457280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9da5783eba54c44db3adaa4f83053be
+      internalID: 2030548843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e30b75a0d26314b817471d31bea641
+      internalID: 692049978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe39de061acfcf42b033034517e7539
+      internalID: 2065971558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c717a5f938cb3e48b5e1754b7c52cd3
+      internalID: 1871535618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5558aeee2e1284c8bd2245e845ee68
+      internalID: 7232670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9207267ba4a0344b8d4ca1081a2bbb
+      internalID: -1732582784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1ef3589b9b5bc42bf784afdff2479b
+      internalID: 1164878575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f5529771d9874ea90b690a5478ee1
+      internalID: 709580409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e10bb896a5bc744c87b483705a8b9f6
+      internalID: 192596861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf0da9a598135549af63a6b0f9ccd8f
+      internalID: 1774226319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b901df24d0e8046a69fb66661f747b
+      internalID: 1462639019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844ddec5bfb16f04495f7613a8d1ddc2
+      internalID: 737022669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Access Card_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc515f3601db144c9f32167a36702bf
+      internalID: -1372438925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Access Card_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e428914646b1d1f4383840874a1ce68c
+      internalID: -1365152527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Access Card_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a311e7d506a5847884ab865c0551fb
+      internalID: 540456021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Access Card_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa2c4da9772f64cbf4e7fd6b9148b7
+      internalID: 1703148594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Access Card_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaab476a06b12b4aa43f56c7ce96826
+      internalID: 949783660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Access Card_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f025baffc666ea24aba6440d2e353af7
+      internalID: 1186843879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Access Card_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad097b69b72a1245a72ab71a11bdfa4
+      internalID: -1658075951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Access Card_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de066efcce837a47a3cbed569b81dd0
+      internalID: -674385456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Access Card_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891cf046547e89245ab7abf3432907e6
+      internalID: -2077248264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Access Card_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301ec92ea033a9041902d32036660933
+      internalID: -1501152613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Access Card_1: -1372438925
+      Access Card_10: -1501152613
+      Access Card_2: -1365152527
+      Access Card_3: 540456021
+      Access Card_4: 1703148594
+      Access Card_5: 949783660
+      Access Card_6: 1186843879
+      Access Card_7: -1658075951
+      Access Card_8: -674385456
+      Access Card_9: -2077248264
+      Ammo_1: 2101809439
+      Ammo_2: 738905290
+      Ammo_3: 1126707211
+      Ammo_4: 1068561296
+      Ammo_5: -345547431
+      Ammo_6: -1384080646
+      Bandage_1: -186060927
+      Bandage_10: 1974713105
+      Bandage_2: 1890337234
+      Bandage_3: 484265855
+      Bandage_4: -1760690173
+      Bandage_5: -1009204451
+      Bandage_6: -1484317351
+      Bandage_7: -231276819
+      Bandage_8: -723485203
+      Bandage_9: 556161742
+      Collectibles Sprite Sheet 16x16_0: -299030596
+      Collectibles Sprite Sheet 16x16_1: 1524538722
+      Collectibles Sprite Sheet 16x16_10: 233415429
+      Collectibles Sprite Sheet 16x16_100: 1250742024
+      Collectibles Sprite Sheet 16x16_101: -1090933254
+      Collectibles Sprite Sheet 16x16_102: -1428249568
+      Collectibles Sprite Sheet 16x16_103: 1628386071
+      Collectibles Sprite Sheet 16x16_104: 353035417
+      Collectibles Sprite Sheet 16x16_105: 28641959
+      Collectibles Sprite Sheet 16x16_106: 1157452696
+      Collectibles Sprite Sheet 16x16_107: -623294541
+      Collectibles Sprite Sheet 16x16_108: 108738559
+      Collectibles Sprite Sheet 16x16_109: 295632764
+      Collectibles Sprite Sheet 16x16_11: -534324102
+      Collectibles Sprite Sheet 16x16_110: -322827163
+      Collectibles Sprite Sheet 16x16_111: -190764856
+      Collectibles Sprite Sheet 16x16_12: -1001917683
+      Collectibles Sprite Sheet 16x16_13: 940454535
+      Collectibles Sprite Sheet 16x16_136: -1948913875
+      Collectibles Sprite Sheet 16x16_137: 41989968
+      Collectibles Sprite Sheet 16x16_138: 967181748
+      Collectibles Sprite Sheet 16x16_139: -1418918727
+      Collectibles Sprite Sheet 16x16_14: 1676142958
+      Collectibles Sprite Sheet 16x16_140: 1038199153
+      Collectibles Sprite Sheet 16x16_141: 903579551
+      Collectibles Sprite Sheet 16x16_142: 384939374
+      Collectibles Sprite Sheet 16x16_143: -506053691
+      Collectibles Sprite Sheet 16x16_144: -110057338
+      Collectibles Sprite Sheet 16x16_145: -728262890
+      Collectibles Sprite Sheet 16x16_146: -1361078647
+      Collectibles Sprite Sheet 16x16_147: 946465184
+      Collectibles Sprite Sheet 16x16_148: 1424736218
+      Collectibles Sprite Sheet 16x16_149: -1492280
+      Collectibles Sprite Sheet 16x16_15: -691238862
+      Collectibles Sprite Sheet 16x16_150: 2008020599
+      Collectibles Sprite Sheet 16x16_151: -1580365974
+      Collectibles Sprite Sheet 16x16_152: 613358524
+      Collectibles Sprite Sheet 16x16_153: -514052603
+      Collectibles Sprite Sheet 16x16_154: 17902582
+      Collectibles Sprite Sheet 16x16_155: -1390688090
+      Collectibles Sprite Sheet 16x16_156: 1322211190
+      Collectibles Sprite Sheet 16x16_157: -1333372085
+      Collectibles Sprite Sheet 16x16_158: 604028834
+      Collectibles Sprite Sheet 16x16_159: -993260115
+      Collectibles Sprite Sheet 16x16_16: 932951589
+      Collectibles Sprite Sheet 16x16_160: 2092174868
+      Collectibles Sprite Sheet 16x16_161: 152934684
+      Collectibles Sprite Sheet 16x16_162: 215313159
+      Collectibles Sprite Sheet 16x16_163: 1434824978
+      Collectibles Sprite Sheet 16x16_164: -1994994223
+      Collectibles Sprite Sheet 16x16_165: -708403172
+      Collectibles Sprite Sheet 16x16_166: 752801873
+      Collectibles Sprite Sheet 16x16_167: 1237982914
+      Collectibles Sprite Sheet 16x16_168: -341643803
+      Collectibles Sprite Sheet 16x16_169: -1675833456
+      Collectibles Sprite Sheet 16x16_17: 1472867729
+      Collectibles Sprite Sheet 16x16_170: -658276586
+      Collectibles Sprite Sheet 16x16_171: -421746633
+      Collectibles Sprite Sheet 16x16_172: 64955667
+      Collectibles Sprite Sheet 16x16_173: -1712753694
+      Collectibles Sprite Sheet 16x16_174: -86099628
+      Collectibles Sprite Sheet 16x16_175: -402264311
+      Collectibles Sprite Sheet 16x16_176: -143153687
+      Collectibles Sprite Sheet 16x16_177: -300232637
+      Collectibles Sprite Sheet 16x16_178: -403773500
+      Collectibles Sprite Sheet 16x16_179: 702383550
+      Collectibles Sprite Sheet 16x16_18: 371492311
+      Collectibles Sprite Sheet 16x16_180: -1158896471
+      Collectibles Sprite Sheet 16x16_181: -1837752005
+      Collectibles Sprite Sheet 16x16_182: -861663066
+      Collectibles Sprite Sheet 16x16_183: 323219171
+      Collectibles Sprite Sheet 16x16_184: -58754065
+      Collectibles Sprite Sheet 16x16_185: 1014958658
+      Collectibles Sprite Sheet 16x16_186: 1014542328
+      Collectibles Sprite Sheet 16x16_187: 76734126
+      Collectibles Sprite Sheet 16x16_188: -131355567
+      Collectibles Sprite Sheet 16x16_189: -776526448
+      Collectibles Sprite Sheet 16x16_19: -729601349
+      Collectibles Sprite Sheet 16x16_190: 1908686525
+      Collectibles Sprite Sheet 16x16_191: 44442731
+      Collectibles Sprite Sheet 16x16_192: 670859176
+      Collectibles Sprite Sheet 16x16_193: -2072351464
+      Collectibles Sprite Sheet 16x16_194: -1356912724
+      Collectibles Sprite Sheet 16x16_195: -806309470
+      Collectibles Sprite Sheet 16x16_196: -847561931
+      Collectibles Sprite Sheet 16x16_197: 420381932
+      Collectibles Sprite Sheet 16x16_198: -2058667160
+      Collectibles Sprite Sheet 16x16_199: 864113253
+      Collectibles Sprite Sheet 16x16_2: -1048192884
+      Collectibles Sprite Sheet 16x16_20: 1736367385
+      Collectibles Sprite Sheet 16x16_200: 1737691085
+      Collectibles Sprite Sheet 16x16_201: -1196563176
+      Collectibles Sprite Sheet 16x16_202: -426011984
+      Collectibles Sprite Sheet 16x16_203: -1382722311
+      Collectibles Sprite Sheet 16x16_204: 1460338800
+      Collectibles Sprite Sheet 16x16_205: -480235285
+      Collectibles Sprite Sheet 16x16_21: 906017685
+      Collectibles Sprite Sheet 16x16_22: 1529203206
+      Collectibles Sprite Sheet 16x16_23: 1732649151
+      Collectibles Sprite Sheet 16x16_24: -1743988658
+      Collectibles Sprite Sheet 16x16_25: 1235000115
+      Collectibles Sprite Sheet 16x16_26: -1196017745
+      Collectibles Sprite Sheet 16x16_27: 835481091
+      Collectibles Sprite Sheet 16x16_28: -355824277
+      Collectibles Sprite Sheet 16x16_29: -600865035
+      Collectibles Sprite Sheet 16x16_3: -266114667
+      Collectibles Sprite Sheet 16x16_30: -797600099
+      Collectibles Sprite Sheet 16x16_31: -469596329
+      Collectibles Sprite Sheet 16x16_32: -1678481501
+      Collectibles Sprite Sheet 16x16_33: 1047870308
+      Collectibles Sprite Sheet 16x16_34: -1319918813
+      Collectibles Sprite Sheet 16x16_35: -1655973055
+      Collectibles Sprite Sheet 16x16_36: 1101021205
+      Collectibles Sprite Sheet 16x16_37: 1277030230
+      Collectibles Sprite Sheet 16x16_38: 754664706
+      Collectibles Sprite Sheet 16x16_39: 877330873
+      Collectibles Sprite Sheet 16x16_4: -661606305
+      Collectibles Sprite Sheet 16x16_40: 691728546
+      Collectibles Sprite Sheet 16x16_41: 1076687550
+      Collectibles Sprite Sheet 16x16_42: -886666551
+      Collectibles Sprite Sheet 16x16_43: 1884774448
+      Collectibles Sprite Sheet 16x16_44: -682972080
+      Collectibles Sprite Sheet 16x16_45: -1492388704
+      Collectibles Sprite Sheet 16x16_46: -679599627
+      Collectibles Sprite Sheet 16x16_47: -97271866
+      Collectibles Sprite Sheet 16x16_48: 1284773225
+      Collectibles Sprite Sheet 16x16_49: 56916836
+      Collectibles Sprite Sheet 16x16_5: 1412843187
+      Collectibles Sprite Sheet 16x16_50: -326863457
+      Collectibles Sprite Sheet 16x16_51: 1075849057
+      Collectibles Sprite Sheet 16x16_6: 362061254
+      Collectibles Sprite Sheet 16x16_68: -765766686
+      Collectibles Sprite Sheet 16x16_69: 456014755
+      Collectibles Sprite Sheet 16x16_7: -901667726
+      Collectibles Sprite Sheet 16x16_70: -1096781924
+      Collectibles Sprite Sheet 16x16_71: -475763295
+      Collectibles Sprite Sheet 16x16_72: -1126837528
+      Collectibles Sprite Sheet 16x16_73: 2123491194
+      Collectibles Sprite Sheet 16x16_74: 880016950
+      Collectibles Sprite Sheet 16x16_75: 1397564158
+      Collectibles Sprite Sheet 16x16_76: 1026288924
+      Collectibles Sprite Sheet 16x16_77: -1877020605
+      Collectibles Sprite Sheet 16x16_78: 425051151
+      Collectibles Sprite Sheet 16x16_79: -1727579972
+      Collectibles Sprite Sheet 16x16_8: 588764671
+      Collectibles Sprite Sheet 16x16_80: -70953302
+      Collectibles Sprite Sheet 16x16_81: 729751824
+      Collectibles Sprite Sheet 16x16_82: 413188973
+      Collectibles Sprite Sheet 16x16_83: 115125885
+      Collectibles Sprite Sheet 16x16_84: 1160412314
+      Collectibles Sprite Sheet 16x16_85: -941034801
+      Collectibles Sprite Sheet 16x16_86: -1834421134
+      Collectibles Sprite Sheet 16x16_87: -1435500661
+      Collectibles Sprite Sheet 16x16_88: 1571425152
+      Collectibles Sprite Sheet 16x16_89: 618495789
+      Collectibles Sprite Sheet 16x16_9: -350036681
+      Collectibles Sprite Sheet 16x16_90: -33492891
+      Collectibles Sprite Sheet 16x16_91: 73673543
+      Collectibles Sprite Sheet 16x16_92: 1639198122
+      Collectibles Sprite Sheet 16x16_93: 1572623925
+      Collectibles Sprite Sheet 16x16_94: 1125803522
+      Collectibles Sprite Sheet 16x16_95: -1226036566
+      Collectibles Sprite Sheet 16x16_96: -1202266833
+      Collectibles Sprite Sheet 16x16_97: -784949579
+      Collectibles Sprite Sheet 16x16_98: 1778714502
+      Collectibles Sprite Sheet 16x16_99: 209285021
+      Key_1: -1697855429
+      Key_10: 709580409
+      Key_11: 192596861
+      Key_12: 1774226319
+      Key_13: 1462639019
+      Key_14: 737022669
+      Key_2: 263457280
+      Key_3: 2030548843
+      Key_4: 692049978
+      Key_5: 2065971558
+      Key_6: 1871535618
+      Key_7: 7232670
+      Key_8: -1732582784
+      Key_9: 1164878575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
