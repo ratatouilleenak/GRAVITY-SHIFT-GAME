@@ -35,7 +35,7 @@ public class Bullet : MonoBehaviour
         anim.SetTrigger("explode");
 
         if (collision.tag == "Enemy")
-            collision.GetComponent<PlayerHealth>().TakeDamage(1);
+            collision.GetComponent<PlayerHealth>().TakeDamage(5);
     }
 
     public void SetDirection(float _direction)
