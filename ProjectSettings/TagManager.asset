@@ -59,14 +59,14 @@ TagManager:
   - name: Enemy
     uniqueID: 2846677791
     locked: 0
-  - name: Player
-    uniqueID: 3729890167
-    locked: 0
   - name: Decorations
     uniqueID: 136318165
     locked: 0
   - name: Foreground
     uniqueID: 3171909729
+    locked: 0
+  - name: Player
+    uniqueID: 3729890167
     locked: 0
   - name: Ground
     uniqueID: 3860860099
