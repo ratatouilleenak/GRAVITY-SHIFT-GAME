@@ -172,6 +172,7 @@ MonoBehaviour:
   numberOfFlashes: 0
   components:
   - {fileID: 3163391944630007531}
+  - {fileID: 2366740648367321220, guid: 58d3a90e3144ff445b0d16eca8301c48, type: 3}
   deathSound: {fileID: 8300000, guid: c45284e926bbfdc4ead67774fc27b8e2, type: 3}
   hurtSound: {fileID: 8300000, guid: 722394b98ca657f4ba909798d7ba0d7c, type: 3}
 --- !u!114 &3163391944630007531
@@ -207,4 +208,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f93de2aecb89228459f6796f6d4f39ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 4
+  damage: 5
