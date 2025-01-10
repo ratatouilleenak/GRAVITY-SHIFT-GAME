@@ -8,13 +8,15 @@ public class FallingPlatform : MonoBehaviour
     [SerializeField] private float fallWait = 0.5f;
     [SerializeField] private float destroyWait = 1f;
 
-    bool isFalling; // To prevent multiple triggers
-    Rigidbody2D rb;
+    private Vector3 initialPosition; // Store the initial position
+    private bool isFalling; // To prevent multiple triggers
+    private Rigidbody2D rb;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        initialPosition = transform.position; // Save the initial position
     }
 
     // Trigger when the player lands on the platform
@@ -32,6 +34,16 @@ public class FallingPlatform : MonoBehaviour
         isFalling = true;
         yield return new WaitForSeconds(fallWait);
         rb.bodyType = RigidbodyType2D.Dynamic;
-        Destroy(gameObject, destroyWait);
+        yield return new WaitForSeconds(destroyWait);
+        gameObject.SetActive(false);
+    }
+
+    public void ResetPlatform()
+    {
+        StopAllCoroutines();
+        rb.bodyType = RigidbodyType2D.Static; // Reset to static body
+        transform.position = initialPosition; // Reset position
+        gameObject.SetActive(true); // Reactivate the platform
+        isFalling = false;
     }
 }

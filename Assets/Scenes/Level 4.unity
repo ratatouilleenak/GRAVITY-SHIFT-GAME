@@ -2317,7 +2317,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad600a6cc8404784784d5481fd1a9cd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  guildmatesBar: {fileID: 649461360}
 --- !u!61 &390279880
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3834,17 +3833,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 89e70d3316bd7bc49951f6813aa3b3be, type: 3}
---- !u!114 &649461360 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 238433512489023318, guid: 89e70d3316bd7bc49951f6813aa3b3be, type: 3}
-  m_PrefabInstance: {fileID: 649461359}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8da6cec0da2971546ab105cd6f4d9b77, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &649461361 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 2236497840730572636, guid: 89e70d3316bd7bc49951f6813aa3b3be, type: 3}
@@ -78014,6 +78002,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: de826ac37a24cfe40b63fbb8e8407746, type: 3}
+--- !u!114 &749507004 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1726154522058592211, guid: de826ac37a24cfe40b63fbb8e8407746, type: 3}
+  m_PrefabInstance: {fileID: 749507003}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6b658feb378d76498d7ed452ea32e66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &816621536
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -78206,81 +78205,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3162337989511230763, guid: fa7b9d9a9728e8642a854056aa9801da, type: 3}
   m_PrefabInstance: {fileID: 1210047675}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &857184100
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 857184101}
-  - component: {fileID: 857184103}
-  - component: {fileID: 857184102}
-  m_Layer: 5
-  m_Name: HealthbarCurrent
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &857184101
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 857184100}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1561183224}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 612.5, y: -64}
-  m_SizeDelta: {x: 1225, y: 128}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &857184102
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 857184100}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c11f8ac3d835efd41b39f331ff8c05c7, type: 3}
-  m_Type: 3
-  m_PreserveAspect: 1
-  m_FillCenter: 1
-  m_FillMethod: 0
-  m_FillAmount: 0.3
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &857184103
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 857184100}
-  m_CullTransparentMesh: 1
 --- !u!1 &868092543
 GameObject:
   m_ObjectHideFlags: 0
@@ -80953,7 +80877,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1123057567
-  m_SortingLayer: 4
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -86031,6 +85955,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: de826ac37a24cfe40b63fbb8e8407746, type: 3}
+--- !u!114 &1159307310 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1726154522058592211, guid: de826ac37a24cfe40b63fbb8e8407746, type: 3}
+  m_PrefabInstance: {fileID: 1159307309}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6b658feb378d76498d7ed452ea32e66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1159313771 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 817279972442922919, guid: fa7b9d9a9728e8642a854056aa9801da, type: 3}
@@ -87034,6 +86969,57 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1421456631}
   m_CullTransparentMesh: 1
+--- !u!1 &1430725161
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1430725163}
+  - component: {fileID: 1430725162}
+  m_Layer: 0
+  m_Name: CheckpointManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1430725162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430725161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4fa5aafed4176d47822d908813f63d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 575876418}
+  checkpoint: {fileID: 623854600}
+  platforms:
+  - {fileID: 1159307310}
+  - {fileID: 1980867076}
+  - {fileID: 1480941868}
+  - {fileID: 749507004}
+--- !u!4 &1430725163
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430725161}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.37619588, y: 0.91566294, z: 0.0934971}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1442160135 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8798035481685934099, guid: 25bf93d2d193f1240b90a56ee2a15a49, type: 3}
@@ -87203,6 +87189,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: de826ac37a24cfe40b63fbb8e8407746, type: 3}
+--- !u!114 &1480941868 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1726154522058592211, guid: de826ac37a24cfe40b63fbb8e8407746, type: 3}
+  m_PrefabInstance: {fileID: 1480941867}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6b658feb378d76498d7ed452ea32e66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1487012799
 GameObject:
   m_ObjectHideFlags: 0
@@ -87452,59 +87449,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1529462034}
   m_CullTransparentMesh: 1
---- !u!1 &1561183223
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1561183224}
-  - component: {fileID: 1561183225}
-  m_Layer: 5
-  m_Name: HealthBar
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1561183224
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1561183223}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.059446335}
-  m_LocalScale: {x: 0.05466, y: 0.05466, z: 0.05466}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1860016992}
-  - {fileID: 857184101}
-  m_Father: {fileID: 1672995642}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 38.07174, y: 33.893684}
-  m_SizeDelta: {x: 1921.0168, y: 1079.4288}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1561183225
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1561183223}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f615698af706924eb0cd8dbf8fa1b53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerHealth: {fileID: 575876425}
-  totalhealthBar: {fileID: 1860016993}
-  currenthealthBar: {fileID: 857184102}
 --- !u!1001 &1569784188
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -87903,7 +87847,6 @@ Transform:
   - {fileID: 484967328}
   - {fileID: 462753494}
   - {fileID: 889011525}
-  - {fileID: 1561183224}
   m_Father: {fileID: 1045100842}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1675625029
@@ -88678,81 +88621,6 @@ MonoBehaviour:
   movementDistance: 2
   speed: 5
   damage: 1
---- !u!1 &1860016991
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1860016992}
-  - component: {fileID: 1860016994}
-  - component: {fileID: 1860016993}
-  m_Layer: 5
-  m_Name: HealthbarTotal
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1860016992
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1860016991}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1561183224}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 612.5, y: -64}
-  m_SizeDelta: {x: 1225, y: 128}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1860016993
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1860016991}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c11f8ac3d835efd41b39f331ff8c05c7, type: 3}
-  m_Type: 3
-  m_PreserveAspect: 1
-  m_FillCenter: 1
-  m_FillMethod: 0
-  m_FillAmount: 0.3
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1860016994
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1860016991}
-  m_CullTransparentMesh: 1
 --- !u!1001 &1861182491
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -89271,6 +89139,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: de826ac37a24cfe40b63fbb8e8407746, type: 3}
+--- !u!114 &1980867076 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1726154522058592211, guid: de826ac37a24cfe40b63fbb8e8407746, type: 3}
+  m_PrefabInstance: {fileID: 1980867075}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6b658feb378d76498d7ed452ea32e66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2012643294
 GameObject:
   m_ObjectHideFlags: 0
@@ -91681,7 +91560,7 @@ GameObject:
   - component: {fileID: 2130314375}
   - component: {fileID: 2130314376}
   m_Layer: 5
-  m_Name: Slider
+  m_Name: Keiran HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -91855,6 +91734,10 @@ PrefabInstance:
       propertyPath: guildmatesBar
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 4661377487901291221, guid: 98f66cffdc4ea034b981453b56285c80, type: 3}
+      propertyPath: checkpointManager
+      value: 
+      objectReference: {fileID: 1430725162}
     - target: {fileID: 6839383744243695511, guid: 98f66cffdc4ea034b981453b56285c80, type: 3}
       propertyPath: m_Name
       value: Player
@@ -91915,6 +91798,7 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1810643738}
+  - {fileID: 1430725163}
   - {fileID: 1155398074}
   - {fileID: 9167568560724975354}
   - {fileID: 829988337}

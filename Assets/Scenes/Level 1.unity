@@ -624,7 +624,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movementDistance: 5
   speed: 6
-  damage: 1
+  damage: 5
 --- !u!1 &116728818 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8798035481685934099, guid: 25bf93d2d193f1240b90a56ee2a15a49, type: 3}
@@ -649,7 +649,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movementDistance: 2.5
   speed: 3
-  damage: 1
+  damage: 5
 --- !u!1001 &129266617
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50898,7 +50898,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movementDistance: 2.5
   speed: 4
-  damage: 1
+  damage: 5
 --- !u!1 &943791750
 GameObject:
   m_ObjectHideFlags: 0
@@ -56096,7 +56096,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movementDistance: 2.5
   speed: 3
-  damage: 1
+  damage: 5
 --- !u!1 &1256160049
 GameObject:
   m_ObjectHideFlags: 0
@@ -59041,7 +59041,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movementDistance: 2.5
   speed: 4
-  damage: 1
+  damage: 5
 --- !u!1 &1777454174
 GameObject:
   m_ObjectHideFlags: 0
@@ -89334,7 +89334,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movementDistance: 2
   speed: 3
-  damage: 1
+  damage: 5
 --- !u!1 &2047610562
 GameObject:
   m_ObjectHideFlags: 3
@@ -90068,7 +90068,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2687330849897576094, guid: 98f66cffdc4ea034b981453b56285c80, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

@@ -5,6 +5,7 @@ public class PlayerRespawn : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField] private AudioClip checkpoint;
+    [SerializeField] private CheckpointManager checkpointManager;
 
     private Transform currentCheckpoint;
     private PlayerHealth playerHealth;
@@ -28,6 +29,9 @@ public class PlayerRespawn : MonoBehaviour
 
         playerHealth.Respawn(); //Restore player health and reset animation
         transform.position = currentCheckpoint.position; //Move player to checkpoint location
+
+        // Reset platforms through CheckpointManager
+        checkpointManager.RespawnPlayer();
 
     }
     private void OnTriggerEnter2D(Collider2D collision)
